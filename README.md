@@ -7,7 +7,8 @@ Learning React with making weather apps
 
 2: 텍스트는 "<Text>문장</Text>" 형식으로
 
-3: ```
+3: 
+```
 const styles = StyleSheet.create({
   container: {
     flex: 1,
